@@ -26,3 +26,5 @@ python attendance_test.py
 
 ## Purpose
 The purpose of this project is to manage test scripts using Git and GitHub and maintain a history of changes.
+
+Maintained using Git and GitHub.
